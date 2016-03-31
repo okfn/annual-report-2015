@@ -58,7 +58,7 @@ h2 {
   margin-bottom: 0.75rem;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: $medium-screen) {
   h2 {
     margin-top: 2.5rem;
     font-size: 1.5rem;

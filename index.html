@@ -20,6 +20,28 @@ layout: default
     <div class="container">
       <h2>{{ s.section }}</h2>
       {{ s.text | markdownify }}
+
+      {% if s.subsections %}
+        {% for sub in s.subsections %}
+          {% if sub.title %}
+          <h4>
+            {{ sub.title }}
+          </h4>
+          {% endif %}
+          {% if sub.type == "team" %}
+          <ul class="team">
+            {% for member in sub.members %}
+            <li>
+              <span{% if member.photo %} style="background-image: url({{ member.photo }});"{% endif %}></span>
+              {{ member.name }}
+            </li>
+            {% endfor %}
+          </ul>
+          {% elsif sub.text %}
+          {{ sub.text | markdownify }}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     </div>
   </section>
 {% endfor %}

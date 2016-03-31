@@ -1,0 +1,47 @@
+.team {
+  margin: 0 -0.5em;
+  padding: 0;
+
+  &:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+
+  li {
+    display: block;
+    position: relative;
+    padding: 0.5em;
+    box-sizing: border-box;
+    text-align: center;
+
+    @media (min-width: $medium-screen) and (max-width: $large-screen) {
+      width: 50%;
+      float: left;
+
+      &:nth-child(2n+3) {
+        clear: left;
+      }
+    }
+
+    @media (min-width: $large-screen) {
+      width: 25%;
+      float: left;
+
+      &:nth-child(4n+5) {
+        clear: left;
+      }
+    }
+
+    span {
+      display: block;
+      padding-top: 100%;
+      background-color: $light-grey;
+      background-position: center center;
+      background-size: cover;
+      border-radius: 50%;
+    }
+  }
+}

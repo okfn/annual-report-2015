@@ -1,6 +1,12 @@
 // Colours
 $action-colour: rgb(122,184,0);
+$dark-grey: rgb(45,45,45);
+$light-grey: lighten( $dark-grey, 75% );
 
 // Typography
 $main-font: Lato;
 $heading-font: $main-font;
+
+// Breakpoints
+$medium-screen: 600px;
+$large-screen: 900px;
