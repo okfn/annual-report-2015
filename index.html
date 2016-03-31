@@ -2,8 +2,21 @@
 layout: default
 ---
 
+<section>
+  <div class="container">
+    <h2>Contents</h2>
+    <ul>
+      {% for s in site.data.content %}
+      <li>
+        <a href="#{{ s.section | downcase | replace:' ','-' | replace:'&','' | replace:'--','-' }}">{{ s.section }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
 {% for s in site.data.content %}
-  <section>
+  <section id="{{ s.section | downcase | replace:' ','-' | replace:'&','' | replace:'--','-' }}">
     <div class="container">
       <h2>{{ s.section }}</h2>
       {{ s.text | markdownify }}
