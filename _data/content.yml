@@ -1,11 +1,190 @@
-- section: Section One
+- section: Looking back on 2015
   text: |
-    **Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    In the last decade, we at Open Knowledge have pioneered the open knowledge movement, encouraging, pushing and supporting governments, corporations, researchers and civil society from around the world to make their data open. We have developed various tools, and provided trainings to help turn open data into insight and knowledge, making it useful for society.
 
-    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+    Open data as an idea might have become mainstream, but much work still remains to be done.
 
-- section: Section Two
+    First, there is much work to be done to make essential, public interest information open. As the [Open Data Index](http://index.okfn.org/) shows for government data, many, many datasets are still not open.
+
+    Second, there is a lot of work to see not just open data, but high quality open data. In the first phase of many open data initiatives there was, rightly, a focus on “getting it out there” - simply getting datasets out.  Without improvements in data quality, many of the potential benefits of open data could be lost, as the data while theoretically “open”, will not actually be usable in practice.
+
+    Third, there needs to be more systematic thought about what data is collected and or what purpose. So far, the Open Data movement has tended to focus on the release of pre-existing datasets. But as we move forward, we want to think more about what data we are collecting, for whom, and why.
+
+    Finally, we are only at the very earliest stages of systematically turning open data and information into the insight and knowledge that really empower people and organizations to bring about real change. Our mission remains the same - to open up all essential, public interest information, and see it used to create insight that drives change - but our approach and focus shifts with time and understanding of what is required at that moment to achieve the mission.
+
+    In this annual report,  we share in more detail our successes, learnings, and structural  changes over the last year, and also our vision for the future.
+
+    In 2015, we undertook the largest number of open knowledge projects and trainings. We participated  in and led various events around the world. We expanded and strengthened our global Open Knowledge Network and community. Today, due to the work of our global network of community members and dedicated staff base,  in a range of fields such as Open Science, Open Access, and Open Government, we can proudly say that the concepts of open knowledge and open data have reached a wider audience.
+
+    We look forward to an even more exciting 2016, that is sure to bring new projects, initiatives, events and opportunities to work together with you, our community. We can’t wait to get started!
+
+    *The Open Knowledge Team*
+
+
+- section: Vision & Mission
   text: |
-    Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+    ### Our Vision
+    A world where open knowledge is ubiquitous, enabling citizens and organizations to create insights that drive change on global and local challenges, that combat injustice and inequality and hold governments and corporations  to account.
 
-    The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+    ### Our Mission
+    To open up all essential, public interest, information and see it used to create insight that drives change. To this end we work to create a global movement for open knowledge, supporting a network of leaders and local groups around the world, facilitate coordination and knowledge sharing within the movement, and prototype and provide a home for pioneering projects demonstrating the impact of open knowledge.
+
+- section: Highlights of 2015
+  text: |
+    ### OK Team
+    In April of this year,  we were delighted to finally [announce the appointment of Pavel Richter as CEO](http://blog.okfn.org/2015/04/29/open-knowledge-appoints-pavel-richter-as-new-ceo/), who joined us in June. We’re very excited to see what new adventures and opportunities Pavel will lead us to!
+
+    With Pavel taking over the executive leadership of Open Knowledge as an organisation, [Rufus Pollock has moved into a different role](http://blog.okfn.org/2016/02/26/rufus-pollock-i-am-now-non-executive-at-open-knowledge-international/). He will once again focus on defending and expanding this space on a global scale and on  the larger aspects of openness, such as the technical, social and political barriers that we see getting erected all over the world.
+
+    ### OK Projects
+    - Global Open Data Index 2015 http://index.okfn.org/
+    - OpenTrials http://opentrials.net/
+    - Frictionless data http://data.okfn.org/
+    - Open Spending https://openspending.org/
+    - CKAN http://ckan.org/
+    - School of Data http://schoolofdata.org/
+    - Open GLAM Collections http://openglam.org/open-collections/
+
+    #### Projects OK collaborated on:
+    - OD4D http://od4d.net/
+    - Local Open Data Index http://census.okfn.org/
+    - Open Data Handbook http://opendatahandbook.org/
+    - DRC Timber Trade Tracker with Global Witness: http://drctimbertracker.globalwitness.org/
+    - Budget Survey Tracker with the International Budget Partnership
+    - DCENT http://dcentproject.eu/
+    - Open Budgets EU http://openbudgets.eu
+    - Data Journalism workshops and trainings Philippines with PCIJ
+    - Route to PA http://routetopa.eu/
+    - FutureTDM http://futuretdm.eu
+    - PASTEUR4OA http://pasteur4oa.eu
+
+    ### OK Events
+    Events continue to be a key source of vital interaction of the people who are building the open knowledge movement: ourselves, like-minded organisations, network leaders and interested parties.
+
+    - Open Data Day 2015 http://opendataday.org/
+    - Open Budget workshop http://openbudgets.eu/events/2015/10/13/open-budgets-stakeholder-workshop/
+    - School of data summer camp http://schoolofdata.org/school-of-data-summer-camp/
+    - International Open Data  Conference 2015 participation
+
+    ### OK Network in the News
+    Our Open Knowledge team wrote so many great articles in 2015.  Here’s a selection of some of our outstanding pieces that gives you an idea of what our team and network were doing:
+
+    #### What our Network was up to:
+    - BudgetApps - the first all-Russia contest on open finance data
+    - Launch of the CKAN based Pakistan Data Portal at the 30th Annual Sustainable Development - Conference
+    - Open Knowledge Ireland calls for open health sector data
+    - Open Knowledge Pakistan: How open data can change Pakistan
+    - Open Knowledge Belgium partners with Mediaraven for the Datawijs project - an interactive multimedia website showcasing Open Data for youths
+    - Romania’s first Open Culture Hackathon
+    - OpenSpending technical road map
+    - Open Knowledge Labs introduces Good Tables
+    - A series of blog posts looking at Open Education initiatives
+    - Community building through the D2ME project
+    - Exploring the Open Knowledge identity
+    - Sustainability models for Local Groups (led by Open Knowledge International)
+
+    #### Insight from our Network on the Open Data Index:
+    - Intro blog http://blog.okfn.org/2015/12/09/the-global-open-data-index-2015-is-live-what-is-you-country-status/
+    - NDI http://blog.okfn.org/2015/12/24/unlocking-election-results-data-signs-of-progress-but-challenges-still-remain/
+    - Nepal http://blog.okfn.org/2016/01/07/open-data-goes-local-in-nepal-findings-of-nepal-open-data-index-2015/
+    - SE Asia http://blog.okfn.org/2015/12/15/the-state-of-open-data-in-southeast-asia/
+    - Government contracts http://blog.okfn.org/2015/12/09/government-contracts-still-a-long-way-from-open/
+    - Taiwan http://blog.okfn.org/2015/12/16/global-open-data-index-2015-taiwan-index/
+    - Uruguay http://blog.okfn.org/2015/12/09/global-open-data-index-2015-uruguay-insight/
+    - UK http://blog.okfn.org/2015/12/09/global-open-data-index-2015-united-kingdom-insight/
+    - Rwanda http://blog.okfn.org/2015/12/09/global-open-data-index-rwanda/
+    - Kosovo http://blog.okfn.org/2015/12/14/global-open-data-index-kosovo-insight/
+
+    #### What we researched and wrote about:
+    - The Economist article: Out of the Box: http://www.economist.com/news/international/21678833-open-data-revolution-has-not-lived-up-expectations-it-only-getting
+    - Johnathan Gray’s article in The Guardian: http://www.theguardian.com/public-leaders-network/2015/feb/20/open-data-day-fairer-taxes
+    - Data Revolution for Whom https://www.opendemocracy.net/ourkingdom/jonathan-grey/data-revolution-for-whom
+    - Making Climate Negociations Public https://opendemocracy.net/uk/jonathan-gray-tommaso-venturini-rufus-pollock/making-climate-negotiations-public
+    - Why Open Data Doesn’t Mean Open Government http://www.theguardian.com/media-network/2015/dec/02/china-russia-open-data-open-government
+    - Open Budget Data, with GIFT & digital methods intitaitive http://www.fiscaltransparency.net/resourcesfiles/files/20150902128.pdf
+    - Democratising the Data Revolution http://blog.okfn.org/2015/07/09/democratising-the-data-revolution/
+    - Where does Europe’s Money Go http://blog.okfn.org/2015/07/02/where-does-europes-money-go/
+
+    #### What we produced and watched:
+    - Open Government, Data & Source Film: http://blog.okfn.org/2015/09/29/open-a-short-film-about-open-government-open-data-and-open-source/
+    - Open Trials walkthrough with Ben Goldacre: https://youtu.be/8RxULD-8Gwg
+    - School of Data Summer Camp: https://www.youtube.com/watch?v=zfJUcgH2Wzc
+    - Putting Open at the heart of digital age, Rufus Pollock at PDF NYC https://www.youtube.com/watch?v=4nsVs87QGhQ
+
+- section: Open Knowledge Family
+  text: |
+    Thanks to our Open Knowledge family, our network, for all their hard work, dedication and passion this year. A special thanks to our amazing staff!
+
+    ### OK Team today
+
+    #### Leadership Team
+    - Pavel Richter, CEO
+    - Rufus Pollock, President (non-executive)
+    - Sander van der Waal, Projects Director
+
+    #### Operations
+    - Arturas Verbickas, Business Development Manager
+    - Cassandra Woolford, Accounts Administrator
+    - Michelle Heydon, Chief of Finance
+    - Nigel Babu, Senior Systems Administrator and Developer
+
+    #### Project Delivery
+    - Cecile LeGuen,  Project Manager [ Open Spending and Budget EU ]
+    - Cédric Lombion,  Community Manager and Trainer [ School of Data ]
+    - Danny Lämmerhirt, Researcher
+    - Emma Beer, Senior Project Manager [ Open Trials and Share PSI ]
+    - Jo Barratt, Project Manager [ Frictionless Data ]
+    - Jonathan Gray, Director of Policy and Research
+    - Katelyn Rogers, Project Manager [ OD4D ]
+    - Lieke Ploeger, Community Manager [ OpenGLAM ]
+    - Marco Tulio Pires, Programme Manager [ School of Data ]
+    - Meg Foulkes, Administrator and Coordinator [ School of Data ]
+    - Mor Rubinstein, International Community Coordinator
+    - Naomi Lillie, Executive Assistant
+    - Neal Bastek, Digital Communications Director
+    - Sam Leon, Senior Analyst and Trainer
+    - Tony Hirst, Data Storyteller
+
+    #### Technical Team
+    - Adam Kariv, Technical Lead  [ OpenSpending ]
+    - Adria Mercader, Senior Developer [ CKAN Technical Lead ]
+    - Brook Elgie, Developer
+    - Dan Fowler, Developer Advocate
+    - Paul Walsh, Head of Technical Product
+    - Sam Smith, Designer
+    - Vítor Baptista, Developer
+
+    ### OK Network
+    The Open Knowledge Network is a global network of nationally based independent chapters, ambassadors, local groups, affiliated organizations, and communities. An updated list of these groups is on the Open Knowledge Network page. The Network is comprised of people who organise to deepen their knowledge, experience and professional networks in the open knowledge movement, take local action to achieve local impact, and collaborates with like-minded communities around the world. Keep in touch and read about the network activities in our blog - http://planet.okfn.org/
+
+    The Open Knowledge Network is made up of Local Organisers, Ambassadors, Local Groups, Labs, Working Groups, Affiliates, Chapters and Open Knowledge International.
+
+    #### Open Knowledge Chapters:
+    - Germany
+    - Spain
+    - Ireland
+    - Switzerland
+    - Brazil
+    - Greece
+    - Austria
+    - Finland
+    - Belgium
+
+    This year we launched our OK [Discourse forum](https://discuss.okfn.org/), a place where members of the network can communicate about different topics and projects. Join our forum to keep up to date with the network activities, thoughts and ideas.
+
+- section: Looking forward to 2016
+  text: |
+    Looking forward to this year, there is still much work to be done to make essential, public interest, information open. As the [Open Data Index](http://index.okfn.org/) shows for government data, many, many datasets are still not open.
+
+    In 2016, we plan to go beyond our advocacy efforts, focusing more on tools and training, and high impact projects capable of reaching out to an even wider audience. We will look to grow and strengthen our Network, while cultivating and supporting our chapters & community.
+
+    We are extremely proud of the efforts and achievements  of our team and community over the last decade. We are looking forward to the next phase of our work, and to making open knowledge a global reality - a world where everyone has access to key information and the ability to use it to understand and shape their own lives; where powerful institutions are comprehensible and accountable; and where vital research information that can help us tackle challenges such as poverty and climate change is available to all.
+
+    #### Staying in touch & getting involved
+    Our community is what keeps us motivated! We love to stay in touch and hear what you’ve been up to. We’ve moved from mailing lists to [Discourse](https://discuss.okfn.org/), and are developing a directory in the meantime, https://okfn.org/network/ is a good source of contact information for the key leaders of the network. (For more information about the groups and other engagement routes, see https://okfn.org/get-involved/.)
+
+    We’d love to hear from you (link to comments, the same one as used in happy holidays note). Thanks to all of you for being part of a great 2015 and we can’t wait to see what this year has in store. We hope you’ll join us for the ride!
+
+- section: Looking forward to 2016
+  text: |
+    We would especially like to thank those who funded us during this reporting period
