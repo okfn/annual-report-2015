@@ -24,21 +24,31 @@ layout: default
             {{ sub.title }}
           </h4>
           {% endif %}
-          {% if sub.type == "team" %}
-          <ul class="team">
-            {% for member in sub.members %}
+          {% if sub.people %}
+          <ul class="people">
+            {% for p in sub.people %}
             <li>
               <span class="image">
-                <span{% if member.photo %} style="background-image: url({{ member.photo }});"{% endif %}></span>
+                <span{% if p.photo %} style="background-image: url({{ p.photo }});"{% endif %}></span>
               </span>
               <span class="name">
-                {{ member.name }}
+                {{ p.name }}
               </span>
-              {% if member.role %}
+              {% if p.role %}
               <span class="role">
-                {{ member.role }}
+                {{ p.role }}
               </span>
               {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+          {% elsif sub.logos %}
+          <ul class="logos">
+            {% for l in sub.logos %}
+            <li>
+              <a{% if l.url %} href="{{ l.url  }}"{% endif %} style="background-image: url({{ l.image }});">
+                {{ l.name }}
+              </a>
             </li>
             {% endfor %}
           </ul>
