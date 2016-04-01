@@ -1,6 +1,8 @@
 # Site settings
-title: Annual Report 2015
-description: Open Knowledge Annual Report 2015.
+title: |
+  Open Knowledge  
+  Annual Report
+description: Looking back on 2015
 
 # Build settings
 markdown: kramdown

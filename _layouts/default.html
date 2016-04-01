@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="no-js" lang="">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,14 +7,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site.title }}</title>
     <link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic,900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/jquery.mmenu.all.css">
     <link rel="stylesheet" href="css/main.css">
-  {% include head.html %}
+    {% include head.html %}
   </head>
   <body>
-    <div class="container">
-      <h1><a href="./">{{ site.title }}</a></h1>
+    <div id="page">
+      <a class="contents-toggle" href="#contents">
+        <span><span>Contents</span></span>
+      </a>
+      {{ content }}
     </div>
-    {{ content }}
+    <nav id="contents">
+      <ul>
+        <li>
+          <a href="#top">
+            {{ site.description }}
+          </a>
+        </li>
+        {% for s in site.data.content %}
+        {% if s.section %}
+        <li>
+          <a href="#{{ s.section | downcase | replace:' ','-' | replace:'&','' | replace:'--','-' }}">{{ s.section }}</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
     {% include scripts.html %}
   </body>
 </html>

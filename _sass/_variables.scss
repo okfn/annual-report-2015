@@ -1,7 +1,8 @@
 // Colours
-$action-colour: rgb(122,184,0);
+$green: rgb(122,184,0);
+$action-colour: $green;
 $dark-grey: rgb(45,45,45);
-$light-grey: lighten( $dark-grey, 75% );
+$light-grey: lighten( $dark-grey, 78% );
 
 // Typography
 $main-font: Lato;

@@ -1,5 +1,4 @@
-- section: Looking back on 2015
-  text: |
+- text: |
     In the last decade, we at Open Knowledge have pioneered the open knowledge movement, encouraging, pushing and supporting governments, corporations, researchers and civil society from around the world to make their data open. We have developed various tools, and provided trainings to help turn open data into insight and knowledge, making it useful for society.
 
     Open data as an idea might have become mainstream, but much work still remains to be done.
@@ -121,72 +120,101 @@
     - title: Leadership Team
       type: team
       members:
-        - name: Pavel Richter, CEO
+        - name: Pavel Richter
+          role: CEO
           photo: "https://d22739b8qd5enr.cloudfront.net/media/cache/36/39/36390beccdcc5c1b2e056b455bfd3633.jpg"
-        - name: Rufus Pollock, President (non-executive)
+        - name: Rufus Pollock
+          role: President (non-executive)
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/92/4b/924b3c03d4dff9fa1623f16ac098ece5.jpg
-        - name: Sander van der Waal, Projects Director
+        - name: Sander van der Waal
+          role: Projects Director
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/b8/93/b89343a04a15c801fab4134815bd0903.jpg
     - title: Operations
       type: team
       members:
-        - name: Arturas Verbickas, Business Development Manager
+        - name: Arturas Verbickas
+          role: Business Development Manager
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/3f/fa/3ffa4ce22dcd90a200c70212cd111f16.jpg
-        - name: Cassandra Woolford, Accounts Administrator
+        - name: Cassandra Woolford
+          role: Accounts Administrator
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/26/fa/26fa8a08def4fcc676934e71c2e0d064.jpg
-        - name: Michelle Heydon, Chief of Finance
+        - name: Michelle Heydon
+          role: Chief of Finance
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/ef/38/ef38019f7dba3672ec03fd017559bf18.jpg
-        - name: Nigel Babu, Senior Systems Administrator and Developer
+        - name: Nigel Babu
+          role: Senior Systems Administrator and Developer
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/58/7e/587e11316ed8f0ca5aa54d2fad83ad45.jpg
     - title: Project Delivery
       type: team
       members:
-        - name: Cecile LeGuen,  Project Manager [ Open Spending and Budget EU ]
+        - name: Cecile LeGuen
+          role: Project Manager [Open Spending and Budget EU]
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/ca/f3/caf38f23fcd54a58ea8cce4c4f984bba.jpg
-        - name: Cédric Lombion,  Community Manager and Trainer [ School of Data ]
+        - name: Cédric Lombion
+          role: Community Manager and Trainer [School of Data]
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/1a/72/1a723808711c340a06698ebc7693dd64.jpg
-        - name: Danny Lämmerhirt, Researcher
+        - name: Danny Lämmerhirt
+          role: Researcher
           photo: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAIBAAAAJGFiMDBmMDhiLTdhYjYtNDQ5Yi1hYmRmLTQ3NGJkYzM3NjQ5ZA.jpg
-        - name: Emma Beer, Senior Project Manager [ Open Trials and Share PSI ]
+        - name: Emma Beer
+          role: Senior Project Manager [Open Trials and Share PSI]
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/16/f9/16f953ce23ea64970fa966d57a793185.jpg
-        - name: Jo Barratt, Project Manager [ Frictionless Data ]
+        - name: Jo Barratt
+          role: Project Manager [Frictionless Data]
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/ae/c1/aec163df6a40947cb9dd6b9a83ffd2cc.jpg
-        - name: Jonathan Gray, Director of Policy and Research
+        - name: Jonathan Gray
+          role: Director of Policy and Research
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/51/86/51861f8ae46a5e62d57cf6dbba2d64ea.jpg
-        - name: Katelyn Rogers, Project Manager [ OD4D ]
+        - name: Katelyn Rogers
+          role: Project Manager [OD4D]
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/4a/46/4a464c88cdbbe80f5b7f12e448f82b89.jpg
-        - name: Lieke Ploeger, Community Manager [ OpenGLAM ]
+        - name: Lieke Ploeger
+          role: Community Manager [OpenGLAM]
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/58/89/5889d28777e4b14a950a8e5d4a7bc4b3.jpg
-        - name: Marco Tulio Pires, Programme Manager [ School of Data ]
+        - name: Marco Tulio Pires
+          role: Programme Manager [School of Data]
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/70/e6/70e6d2d31060e96c09b98aa8d2997cff.jpg
-        - name: Meg Foulkes, Administrator and Coordinator [ School of Data ]
+        - name: Meg Foulkes
+          role: Administrator and Coordinator [School of Data]
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/bf/ab/bfab69f43b15aefbac20f195cec9617f.jpg
-        - name: Mor Rubinstein, International Community Coordinator
+        - name: Mor Rubinstein
+          role: International Community Coordinator
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/6a/48/6a4842da58d9c46f56625935867b2a7f.jpg
-        - name: Naomi Lillie, Executive Assistant
+        - name: Naomi Lillie
+          role: Executive Assistant
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/92/60/926024b1c1283c4635efaf60d6593c2c.jpg
-        - name: Neal Bastek, Digital Communications Director
+        - name: Neal Bastek
+          role: Digital Communications Director
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/ed/bd/edbd9dabd28facd2e9e153d08677ee91.jpg
-        - name: Sam Leon, Senior Analyst and Trainer
+        - name: Sam Leon
+          role: Senior Analyst and Trainer
           photo: http://www.bunkaradio.com/uploads/2/0/9/0/20905324/8770508.jpg
-        - name: Tony Hirst, Data Storyteller
+        - name: Tony Hirst
+          role: Data Storyteller
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/5c/1b/5c1bdf1057b3f224c02d78ecb710266b.jpg
     - title: Technical Team
       type: team
       members:
-        - name: Adam Kariv, Technical Lead  [ OpenSpending ]
+        - name: Adam Kariv
+          role: Technical Lead  [OpenSpending]
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/38/c8/38c8841e9b84fd7ca3c9872c55508402.jpg
-        - name: Adria Mercader, Senior Developer [ CKAN Technical Lead ]
+        - name: Adria Mercader
+          role: Senior Developer [CKAN Technical Lead]
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/ab/55/ab55cb8d2458e91c6589b661f024a3c7.jpg
-        - name: Brook Elgie, Developer
+        - name: Brook Elgie
+          role: Developer
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/57/ae/57ae6a1cee66ff4864248489f845210a.jpg
-        - name: Dan Fowler, Developer Advocate
+        - name: Dan Fowler
+          role: Developer Advocate
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/4b/14/4b14540b97eff480abd29b75b7069452.jpg
-        - name: Paul Walsh, Head of Technical Product
+        - name: Paul Walsh
+          role: Head of Technical Product
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/0a/33/0a331515235bae90d5aef6a6b572b137.jpg
-        - name: Sam Smith, Designer
+        - name: Sam Smith
+          role: Designer
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/4b/26/4b26f03c64e26132576bf17aaf1552ee.jpg
-        - name: Vítor Baptista, Developer
+        - name: Vítor Baptista
+          role: Developer
           photo: https://d22739b8qd5enr.cloudfront.net/media/cache/2b/e6/2be6b91fc5762a68e9c74e499a2ffc94.jpg
 
     - text: |

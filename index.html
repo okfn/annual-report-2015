@@ -2,23 +2,19 @@
 layout: default
 ---
 
-<section>
+<div class="intro" id="top">
   <div class="container">
-    <h2>Contents</h2>
-    <ul>
-      {% for s in site.data.content %}
-      <li>
-        <a href="#{{ s.section | downcase | replace:' ','-' | replace:'&','' | replace:'--','-' }}">{{ s.section }}</a>
-      </li>
-      {% endfor %}
-    </ul>
+    <h1>{{ site.title | markdownify }}</h1>
+    <span class="description">{{ site.description }}</span>
   </div>
-</section>
+</div>
 
 {% for s in site.data.content %}
   <section id="{{ s.section | downcase | replace:' ','-' | replace:'&','' | replace:'--','-' }}">
     <div class="container">
+      {% if s.section %}
       <h2>{{ s.section }}</h2>
+      {% endif %}
       {{ s.text | markdownify }}
 
       {% if s.subsections %}
@@ -32,8 +28,17 @@ layout: default
           <ul class="team">
             {% for member in sub.members %}
             <li>
-              <span{% if member.photo %} style="background-image: url({{ member.photo }});"{% endif %}></span>
-              {{ member.name }}
+              <span class="image">
+                <span{% if member.photo %} style="background-image: url({{ member.photo }});"{% endif %}></span>
+              </span>
+              <span class="name">
+                {{ member.name }}
+              </span>
+              {% if member.role %}
+              <span class="role">
+                {{ member.role }}
+              </span>
+              {% endif %}
             </li>
             {% endfor %}
           </ul>
