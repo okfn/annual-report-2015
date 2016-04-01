@@ -66,6 +66,16 @@ html.mm-opened {
       }
     }
   }
+
+  a.mm-slideout {
+    display: none;
+  }
+
+  @media (min-width: 550px) {
+    a.mm-slideout {
+      display: block;
+    }
+  }
 }
 
 
