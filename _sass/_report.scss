@@ -17,9 +17,7 @@ a.mm-slideout {
     top: 50%;
 
     span {
-      overflow: hidden;
-      display: block;
-      height: 0;
+      @include hide-text;
     }
   }
 
@@ -126,14 +124,7 @@ html.mm-opened {
   margin: 0 -1em;
   padding: 0;
   line-height: 1;
-
-  &:after {
-    content: ".";
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden;
-  }
+  @include clearfix;
 
   li {
     display: block;
