@@ -34,13 +34,13 @@
 
 - section: Highlights of 2015
   text: |
-    ### Team
+    ### Open Knowledge Team
     In April of this year,  we were delighted to finally [announce the appointment of Pavel Richter as CEO](http://blog.okfn.org/2015/04/29/open-knowledge-appoints-pavel-richter-as-new-ceo/), who joined us in June. We’re very excited to see what new adventures and opportunities Pavel will lead us to!
 
     With Pavel taking over the executive leadership of Open Knowledge as an organisation, [Rufus Pollock has moved into a different role](http://blog.okfn.org/2016/02/26/rufus-pollock-i-am-now-non-executive-at-open-knowledge-international/). He will once again focus on defending and expanding this space on a global scale and on  the larger aspects of openness, such as the technical, social and political barriers that we see getting erected all over the world.
 
   subsections:
-    - title: Our projects
+    - title: Open Knowledge projects
       logos:
         - name: Global Open Data Index
           image: img/index.png
