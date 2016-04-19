@@ -52,7 +52,7 @@
 
         - name: Frictionless Data
           image: img/frictionlessdata.png
-          url: http://data.okfn.org/
+          url: http://frictionlessdata.io/
 
         - name: Open Spending
           image: img/openspending.png
